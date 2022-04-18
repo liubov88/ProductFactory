@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "6h1+PYjWY7EH6yFnYdA5AT0r+fGulXjEbbR0XxW7r9nuA7sEnL1TFOY5axSv8hNs9owgeaVFe0ob+50d+Yh3DA==",
+  "success": true,
+  "projectFilePath": "D:\\DATA\\SCAI\\study\\rep\\ProductFactory\\ProductFactory\\ProductFactory.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\39324\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\39324\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512",
+    "C:\\Users\\39324\\.nuget\\packages\\nunit\\3.13.3\\nunit.3.13.3.nupkg.sha512"
+  ],
+  "logs": []
+}
